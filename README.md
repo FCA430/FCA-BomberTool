@@ -11,7 +11,7 @@ sudo apt update
 sudo apt install python3 git -y
 pip3 install requests
 
-git clone https://github.com/FCA430/FCA-BomberTool/blob/main/RunFCA.py
+git clone https://github.com/FCA430/FCA-BomberTool.git
 cd FCA-BomberTool
 python3 RunFCA.py
 
@@ -23,6 +23,6 @@ pkg update -y && pkg upgrade -y
 pkg install python git -y
 pip install requests
 
-git clone https://github.com/FCA430/FCA-BomberTool/blob/main/RunFCA.py
+git clone https://github.com/FCA430/FCA-BomberTool.git
 cd FCA-BomberTool
 python RunFCA.py
